@@ -17,7 +17,7 @@ Este repositório contém teste de api utilizando [Cypress](https://www.cypress.
 
 ### Como executar os testes
 
-- Executar os testes:
+- Executar os testes em modo headless:
   ```sh
   npm run test
   ```
