@@ -4,8 +4,8 @@ Este repositório contém testes de API desenvolvidos com Cypress e JavaScript, 
 
 ### Pré-requisitos
 Antes de começar, certifique-se de ter o Node.js e o npm (ou Yarn) instalados em sua máquina.
-- [NodeJs](https://nodejs.org/) Recomenda-se usar a versão lts
-- Npm é instalado juntamente com o NodeJs
+- [Node.js](https://nodejs.org/) Recomenda-se usar a versão LTS
+- Npm é instalado juntamente com o Node.js
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) pacote alternativo caso não queira utilizar o npm
 
 ## Configuração e Instalação
