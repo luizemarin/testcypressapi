@@ -37,6 +37,8 @@ Obs.: Este comando executará todos os testes definidos no projeto no terminal. 
 - Se quiser executar o teste de maneira mais interativa usando a interface do Cypress e visualizar os testes sendo executados, use:
   ```sh
   npm run test:open
+  # ou
+  yarn test:open
   ```
 
 ## Referências
