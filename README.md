@@ -1,6 +1,6 @@
 # Repositorio de teste automatizado api - Cypress
 
-Este repositório contém testes de API desenvolvidos com Cypress e JavaScript, focados em validar funcionalidades de APIs. [Cypress](https://www.cypress.io/)
+Este repositório contém testes de API desenvolvidos com Cypress e JavaScript, focados em validar funcionalidades de APIs.
 
 ### Pré-requisitos
 Antes de começar, certifique-se de ter o Node.js e o npm (ou Yarn) instalados em sua máquina.
@@ -42,4 +42,4 @@ Obs.: Este comando executará todos os testes definidos no projeto no terminal. 
   ```
 
 ## Referências
-- Documentação Oficial do Cypress: Para mais informações e guias detalhados sobre como usar o Cypress, visite a [Documentação do cypress](https://docs.cypress.io/app/get-started/why-cypress)
+- Documentação Oficial do Cypress: Para mais informações e guias detalhados sobre como usar o Cypress, visite a [Documentação do cypress](https://www.cypress.io/)
